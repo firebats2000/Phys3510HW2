@@ -1,8 +1,6 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/nrS36az-)
 # Assignment — Python in Google Colab (Intro)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/firebats2000/Phys35109HW2/blob/main/getting_started_with_colab.ipynb)
-
 
 In this repo you’ll find a Colab notebook to guide you through some basics of Python and the Colab environment.
 
